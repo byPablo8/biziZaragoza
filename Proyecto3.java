@@ -50,5 +50,7 @@ public class Proyecto3 {
 
         mostrarProyecto3(ruta);
         // crear array list si e ir añadiendo usuarios si no lo estan y si lo estan sumar contador
+        // crear array list si e ir añadiendo usuarios si no lo estan y si lo estan sumar contador// crear array list si e ir añadiendo usuarios si no lo estan y si lo estan sumar contador
+
     }
 }
