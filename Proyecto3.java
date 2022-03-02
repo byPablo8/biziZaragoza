@@ -49,7 +49,11 @@ public class Proyecto3 {
         String ruta = sc.next();
 
         mostrarProyecto3(ruta);
-        // crear array list si e ir añadiendo usuarios si no lo estan y si lo estan sumar contador
+        // creañppuopuououo
+        //
+        // ljjouoj
+        // kpjoupou
+        // r array list si e ir añadiendo usuarios si no lo estan y si lo estan sumar contador
         // crear array list si e ir añadiendo usuarios si no lo estan y si lo estan sumar contador// crear array list si e ir añadiendo usuarios si no lo estan y si lo estan sumar contador
 
     }
