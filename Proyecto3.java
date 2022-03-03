@@ -47,7 +47,6 @@ public class Proyecto3 {
         Scanner sc = new Scanner(System.in);
         System.out.println("Introduzca la ruta + el nombre donde se encuentra el archivo.csv o .txt: ");
         String ruta = sc.next();
-
         mostrarProyecto3(ruta);
     }
 }
