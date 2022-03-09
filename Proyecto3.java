@@ -4,6 +4,11 @@ import java.io.File;
 import java.util.*;
 
 public class Proyecto3 {
+    /**
+     * PRE:
+     * POST: Este metodo muestra la informacion de los usuarios distintos.
+     * @param ruta
+     */
     public static void mostrarProyecto3(String ruta) {
         File file = new File(ruta);
         try {
@@ -43,6 +48,15 @@ public class Proyecto3 {
         }
     }
 
+    /**
+     * En esta última tarea de la práctica se pide desarrollar un programa Java que, al igual que el anterior, solicite al usuario
+     * la ruta de un fichero de datos de Bizi Zaragoza, y a continuación, escriba en la pantalla el número de usuarios distintos
+     * que aparecen en el fichero y un listado de los 15 usuarios que más usos han hecho del sistema según el contenido del
+     * fichero. Para cada uno de estos usuarios indicará el número de usos entre estaciones distintas, el número de usos entre
+     * la misma estación y el número de usos totales. Este listado de los 15 usuarios más activos deberá aparecer ordenado
+     * de mayor a menor según el número de usos totales.
+     * @param args
+     */
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Introduzca la ruta + el nombre donde se encuentra el archivo.csv o .txt: ");
